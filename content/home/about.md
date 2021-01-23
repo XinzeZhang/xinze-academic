@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: recent-post
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Xinze Zhang  is currently a Ph.D. candidate in the School of Management, Huazhong University of Science and Technology (HUST), China. He is also a team member of John Hopcroft Lab, School of Computer Science and Technology, HUST. 
+
+His research interests include deep learning, natural language processing, and time series forecasting. Most recently, he focuses on the adversarial generation for neural machine translation (NMT), randomness in deep neural network (DNN), and DNN based time series forecasting models.
+
+He received a B.A. degree in accounting in 2015 from Zhongnan University of Economics and Law, China. He received his M.P.Ac. degree in accounting in 2018 from Huazhong University of Science and Technology, China.
