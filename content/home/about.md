@@ -1,11 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: recent-post
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: img_2862.jpg
 ---
 Xinze Zhang  is currently a Ph.D. candidate in the School of Management, Huazhong University of Science and Technology (HUST), China. He is also a team member of John Hopcroft Lab, School of Computer Science and Technology, HUST. 
 
