@@ -1,10 +1,10 @@
 ---
-widget: about
+widget: About
 active: true
 author: admin
 widget_id: recent-post
 headless: true
-weight: 0
+weight: 20
 title: Biography
 design:
   background:
